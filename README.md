@@ -12,3 +12,6 @@ Technologies Used:
 - Statsmodels
 - TensorFlow
 - Scikit-learn
+
+By:
+D Tamil Selvan
